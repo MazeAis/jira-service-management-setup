@@ -86,10 +86,10 @@ Four request types were created under <b>Project settings</b> → <b>Request typ
 
 | Request type | Category |
 | --- | --- |
-| Reset my password | Service request |
-| Hardware not working | Incident |
-| Request access to a system | Service request |
-| Software installation request | Service request |
+| Reset my password | Logins and Accounts |
+| Hardware not working | Computers |
+| Request access to a system | Logins and Accounts |
+| Software installation request | Applications |
 </p>
 <br />
 
