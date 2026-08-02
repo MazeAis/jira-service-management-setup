@@ -190,42 +190,13 @@ Once linked, articles surface in the customer portal as the user types - resolvi
 </p>
 <br />
 
-<h3>Part 7 - Automation</h3>
+<h3>Part 7 - Working tickets end to end</h3>
 
 <p>
-<img src="PASTE_SCREENSHOT_11_URL" height="80%" width="80%" alt="Automation rule builder"/>
+<img src="PASTE_SCREENSHOT_11_URL" height="80%" width="80%" alt="Ticket showing internal and public comment threads"/>
 </p>
 <p>
-<i>Screenshot 11 - the automation rule builder.</i>
-</p>
-<p>
-Two rules were built under <b>Project settings</b> → <b>Automation</b>:
-
-1. <b>Auto-assign by request type</b> - password reset requests route directly to the Tier 1 agent on creation.
-2. <b>Comment on transition</b> - when a ticket moves to "Waiting for customer", a templated public comment posts automatically explaining what information is needed.
-
-The second rule is automation in service of communication: the user is never left wondering why their ticket went quiet.
-</p>
-<br />
-
-<p>
-<img src="PASTE_SCREENSHOT_12_URL" height="80%" width="80%" alt="Automation audit log showing the rule fired"/>
-</p>
-<p>
-<i>Screenshot 12 - audit log confirming the rule executed.</i>
-</p>
-<p>
-The audit log is the proof the rule actually ran, not just that it was configured.
-</p>
-<br />
-
-<h3>Part 8 - Working tickets end to end</h3>
-
-<p>
-<img src="PASTE_SCREENSHOT_13_URL" height="80%" width="80%" alt="Ticket showing internal and public comment threads"/>
-</p>
-<p>
-<i>Screenshot 13 - a ticket showing internal notes alongside public replies.</i>
+<i>Screenshot 11 - a ticket showing internal notes alongside public replies.</i>
 </p>
 <p>
 Tickets were submitted through the customer portal from a separate browser session, then worked from the agent view. The distinction between internal and public comments is the one worth stressing: the internal thread is where the technical detail lives, and the public thread is where the plain-language explanation goes.
@@ -233,10 +204,10 @@ Tickets were submitted through the customer portal from a separate browser sessi
 <br />
 
 <p>
-<img src="PASTE_SCREENSHOT_14_URL" height="80%" width="80%" alt="Queue populated with tickets in mixed states"/>
+<img src="PASTE_SCREENSHOT_12_URL" height="80%" width="80%" alt="Queue populated with tickets in mixed states"/>
 </p>
 <p>
-<i>Screenshot 14 - the queue populated with tickets in mixed states, including one breached SLA.</i>
+<i>Screenshot 12 - the queue populated with tickets in mixed states, including one breached SLA.</i>
 </p>
 <p>
 Tickets were deliberately worked to different outcomes:
@@ -249,13 +220,13 @@ A queue where every ticket is green demonstrates less than one that shows a brea
 </p>
 <br />
 
-<h3>Part 9 - Reporting</h3>
+<h3>Part 8 - Reporting</h3>
 
 <p>
-<img src="PASTE_SCREENSHOT_15_URL" height="80%" width="80%" alt="Created vs Resolved and SLA success rate reports"/>
+<img src="PASTE_SCREENSHOT_13_URL" height="80%" width="80%" alt="Created vs Resolved and SLA success rate reports"/>
 </p>
 <p>
-<i>Screenshot 15 - Created vs Resolved and SLA success rate reports.</i>
+<i>Screenshot 13 - Created vs Resolved and SLA success rate reports.</i>
 </p>
 <p>
 Two built-in reports were reviewed under <b>Project</b> → <b>Reports</b> once ticket data existed:
@@ -281,8 +252,6 @@ Response and resolution SLAs with pause conditions and business-hours calendars
 
 Confluence knowledge base integration for ticket deflection
 
-Automation for ticket routing and customer-facing status updates
-
 Ticket lifecycle handling across both agent and customer portal views
 
-The process covers service desk design, service level management, knowledge base authoring, and workflow automation - demonstrating practical ITSM and end-user support skills on a platform in active use across IT teams.
+The process covers service desk design, service level management, knowledge base authoring, and full ticket lifecycle handling - demonstrating practical ITSM and end-user support skills on a platform in active use across IT teams.
