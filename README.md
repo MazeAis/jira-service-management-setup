@@ -210,7 +210,6 @@ A queue where every ticket is green demonstrates less than one that shows a brea
 <img src="https://i.imgur.com/69Rluiz.png" height="80%" width="80%" alt="Created vs Resolved and SLA success rate reports"/>
 </p>
 <p>
-<i>Screenshot 13 - Created vs Resolved and SLA success rate reports.</i>
 </p>
 <p>
 Two built-in reports were reviewed under <b>Project</b> → <b>Reports</b> once ticket data existed:
