@@ -128,7 +128,6 @@ Queues in JSM are ordered saved filters that determine what an agent sees first 
 
 Ordering matters: the queue at the top is the one that gets worked first, so it should reflect what is most at risk rather than what is most recent.
 
-<b>Note:</b> capture this screenshot after Part 8, once tickets exist - an empty queue list does not demonstrate the filters working.
 </p>
 <br />
 
