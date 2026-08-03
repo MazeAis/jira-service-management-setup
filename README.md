@@ -134,7 +134,7 @@ Ordering matters: the queue at the top is the one that gets worked first, so it 
 <h3>Part 5 - Build SLAs</h3>
 
 <p>
-<img src="https://i.imgur.com/Atrtws4.png" height="80%" width="80%" alt="SLA configuration showing goal, start, pause and stop conditions"/>
+<img src="https://i.imgur.com/yII9RqZ.png" height="80%" width="80%" alt="SLA configuration showing goal, start, pause and stop conditions"/>
 </p>
 <p>
 </p>
