@@ -3,7 +3,7 @@
 </p>
 
 <h1>Jira Service Management - Setup and Configuration</h1>
-This tutorial outlines the setup and configuration of a functioning IT service desk in Jira Service Management, including request types, triage queues, SLAs, a linked knowledge base, and automation.<br />
+This tutorial outlines the setup and configuration of a functioning IT service desk in Jira Service Management, including request types, triage queues, SLAs, and a linked knowledge base.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -11,7 +11,6 @@ This tutorial outlines the setup and configuration of a functioning IT service d
 - Jira Service Management (Atlassian Cloud)
 - Confluence (linked knowledge base)
 - Customer Portal (end-user self-service)
-- JSM Automation
 
 <h2>Platform</h2>
 
@@ -38,7 +37,7 @@ This tutorial outlines the setup and configuration of a functioning IT service d
 <p>
 Create your Atlassian site and select the Free plan for Jira Service Management. The site name becomes your permanent URL (<code>yoursite.atlassian.net</code>), so choose something professional.
 
-The Free plan supports 3 agents, unlimited customers, 2GB storage, 100 email notifications per day, and 500 automation rule runs per month - more than enough to build and demonstrate a complete service desk.
+The Free plan supports 3 agents, unlimited customers, 2GB storage, and 100 email notifications per day - more than enough to build and demonstrate a complete service desk.
 
 The project was created using the <b>IT Service Management</b> template rather than the generic service desk template, because the ITSM template ships with incident, service request, change, and problem request types already scaffolded.
 </p>
