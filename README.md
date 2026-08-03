@@ -92,7 +92,7 @@ Four request types were created under <b>Project settings</b> → <b>Request typ
 <br />
 
 <p>
-<img src="https://i.imgur.com/9NygBAM.png" height="80%" width="80%" alt="Field configuration for a single request type"/>
+<img src="https://i.imgur.com/rDE9DB3.png" height="80%" width="80%" alt="Field configuration for a single request type"/>
 </p>
 <p>
 </p>
@@ -105,7 +105,6 @@ Portal fields were customized so that intake captures what triage would otherwis
 <img src="https://i.imgur.com/KP3NKm7.png" height="80%" width="80%" alt="Request type as rendered in the customer portal"/>
 </p>
 <p>
-<i>Screenshot 6 - the same request type as the end user sees it in the portal.</i>
 </p>
 <p>
 Verifying the portal rendering matters: fields that make sense to an administrator are not always clear to the person filling them in.
@@ -136,10 +135,9 @@ Ordering matters: the queue at the top is the one that gets worked first, so it 
 <h3>Part 5 - Build SLAs</h3>
 
 <p>
-<img src="PASTE_SCREENSHOT_08_URL" height="80%" width="80%" alt="SLA configuration showing goal, start, pause and stop conditions"/>
+<img src="https://i.imgur.com/Atrtws4.png" height="80%" width="80%" alt="SLA configuration showing goal, start, pause and stop conditions"/>
 </p>
 <p>
-<i>Screenshot 8 - SLA configuration showing goals and start/pause/stop conditions.</i>
 </p>
 <p>
 Two separate clocks were configured under <b>Project settings</b> → <b>SLAs</b>, because a service desk measures acknowledgement and resolution differently:
@@ -161,10 +159,9 @@ A business-hours calendar was attached to the resolution SLA so the clock only r
 <br />
 
 <p>
-<img src="PASTE_SCREENSHOT_09_URL" height="80%" width="80%" alt="Ticket displaying a live SLA countdown"/>
+<img src="https://i.imgur.com/FYHUUgb.png" height="80%" width="80%" alt="Ticket displaying a live SLA countdown"/>
 </p>
 <p>
-<i>Screenshot 9 - a ticket displaying its live SLA countdown.</i>
 </p>
 <p>
 Once configured, the SLA timer appears directly on the ticket, giving the agent immediate visibility of time remaining rather than requiring them to work it out.
@@ -174,10 +171,9 @@ Once configured, the SLA timer appears directly on the ticket, giving the agent 
 <h3>Part 6 - Knowledge base</h3>
 
 <p>
-<img src="PASTE_SCREENSHOT_10_URL" height="80%" width="80%" alt="Knowledge base article surfacing in the customer portal"/>
+<img src="https://i.imgur.com/akYjfDF.png" height="80%" width="80%" alt="Knowledge base article surfacing in the customer portal"/>
 </p>
 <p>
-<i>Screenshot 10 - a knowledge base article surfacing in the portal as the user types their request.</i>
 </p>
 <p>
 A Confluence space was created and linked under <b>Project settings</b> → <b>Knowledge base</b>, then how-to articles were authored (password self-service reset, VPN connection steps, printer troubleshooting) and linked to their matching request types.
@@ -188,22 +184,14 @@ Once linked, articles surface in the customer portal as the user types - resolvi
 
 <h3>Part 7 - Working tickets end to end</h3>
 
-<p>
-<img src="PASTE_SCREENSHOT_11_URL" height="80%" width="80%" alt="Ticket showing internal and public comment threads"/>
-</p>
-<p>
-<i>Screenshot 11 - a ticket showing internal notes alongside public replies.</i>
-</p>
-<p>
 Tickets were submitted through the customer portal from a separate browser session, then worked from the agent view. The distinction between internal and public comments is the one worth stressing: the internal thread is where the technical detail lives, and the public thread is where the plain-language explanation goes.
 </p>
 <br />
 
 <p>
-<img src="PASTE_SCREENSHOT_12_URL" height="80%" width="80%" alt="Queue populated with tickets in mixed states"/>
+<img src="https://i.imgur.com/TvvYcYV.png" height="80%" width="80%" alt="Queue populated with tickets in mixed states"/>
 </p>
 <p>
-<i>Screenshot 12 - the queue populated with tickets in mixed states, including one breached SLA.</i>
 </p>
 <p>
 Tickets were deliberately worked to different outcomes:
@@ -219,7 +207,7 @@ A queue where every ticket is green demonstrates less than one that shows a brea
 <h3>Part 8 - Reporting</h3>
 
 <p>
-<img src="PASTE_SCREENSHOT_13_URL" height="80%" width="80%" alt="Created vs Resolved and SLA success rate reports"/>
+<img src="https://i.imgur.com/69Rluiz.png" height="80%" width="80%" alt="Created vs Resolved and SLA success rate reports"/>
 </p>
 <p>
 <i>Screenshot 13 - Created vs Resolved and SLA success rate reports.</i>
