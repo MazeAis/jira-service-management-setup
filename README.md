@@ -45,7 +45,7 @@ The project was created using the <b>IT Service Management</b> template rather t
 <br />
 
 <p>
-<img src="https://i.imgur.com/LS8imRd.png" height="80%" width="80%" alt="Empty queue immediately after project creation"/>
+<img src="https://i.imgur.com/IUpI9y3.png" height="80%" width="80%" alt="Empty queue immediately after project creation"/>
 </p>
 <p>
 
@@ -58,10 +58,9 @@ This is the baseline. Everything that follows is configuration applied on top of
 <h3>Part 2 - Agent view and customer portal</h3>
 
 <p>
-<img src="https://i.imgur.com/IUpI9y3.png" height="80%" width="80%" alt="Agent view and customer portal side by side"/>
+<img src="https://i.imgur.com/h6jorID.png" height="80%" width="80%" alt="Agent view and customer portal side by side"/>
 </p>
 <p>
-<i>Screenshot 3 - agent view and customer portal side by side.</i>
 </p>
 <p>
 JSM separates the two interfaces entirely:
@@ -76,10 +75,9 @@ This mirrors the admin and agent panel split in osTicket. The portal was kept op
 <h3>Part 3 - Build request types</h3>
 
 <p>
-<img src="PASTE_SCREENSHOT_04_URL" height="80%" width="80%" alt="Configured request type list"/>
+<img src="https://i.imgur.com/JT5rk5B.png" height="80%" width="80%" alt="Configured request type list"/>
 </p>
 <p>
-<i>Screenshot 4 - the configured request type list.</i>
 </p>
 <p>
 Four request types were created under <b>Project settings</b> → <b>Request types</b>, reflecting real help desk volume:
@@ -94,18 +92,17 @@ Four request types were created under <b>Project settings</b> → <b>Request typ
 <br />
 
 <p>
-<img src="PASTE_SCREENSHOT_05_URL" height="80%" width="80%" alt="Field configuration for a single request type"/>
+<img src="https://i.imgur.com/9NygBAM.png" height="80%" width="80%" alt="Field configuration for a single request type"/>
 </p>
 <p>
-<i>Screenshot 5 - field configuration for the "Hardware not working" request type.</i>
 </p>
 <p>
-Portal fields were customised so that intake captures what triage would otherwise have to chase. "Hardware not working" prompts for asset tag, physical location, and whether the issue is fully blocking work - so urgency is captured at submission rather than guessed at later.
+Portal fields were customized so that intake captures what triage would otherwise have to chase. "Hardware not working" prompts for asset tag, physical location, and whether the issue is fully blocking work - so urgency is captured at submission rather than guessed at later.
 </p>
 <br />
 
 <p>
-<img src="PASTE_SCREENSHOT_06_URL" height="80%" width="80%" alt="Request type as rendered in the customer portal"/>
+<img src="https://i.imgur.com/KP3NKm7.png" height="80%" width="80%" alt="Request type as rendered in the customer portal"/>
 </p>
 <p>
 <i>Screenshot 6 - the same request type as the end user sees it in the portal.</i>
@@ -118,10 +115,9 @@ Verifying the portal rendering matters: fields that make sense to an administrat
 <h3>Part 4 - Configure queues</h3>
 
 <p>
-<img src="PASTE_SCREENSHOT_07_URL" height="80%" width="80%" alt="Configured queue list with ticket counts"/>
+<img src="https://i.imgur.com/Atrtws4.png" height="80%" width="80%" alt="Configured queue list with ticket counts"/>
 </p>
 <p>
-<i>Screenshot 7 - the configured queue list with ticket counts.</i>
 </p>
 <p>
 Queues in JSM are ordered saved filters that determine what an agent sees first on login. The following were created under <b>Project settings</b> → <b>Queues</b>:
