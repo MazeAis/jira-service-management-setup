@@ -30,10 +30,10 @@ This tutorial outlines the setup and configuration of a functioning IT service d
 <h3>Part 1 - Create your site and project</h3>
 
 <p>
-<img src="PASTE_SCREENSHOT_01_URL" height="60%" width="60%" alt="Project creation screen with ITSM template selected"/>
+<img src="https://i.imgur.com/z3pXFzX.png" height="60%" width="60%" alt="Project creation screen with ITSM template selected"/>
 </p>
 <p>
-<i>Screenshot 1 - project creation screen showing the ITSM template selected.</i>
+
 </p>
 <p>
 Create your Atlassian site and select the Free plan for Jira Service Management. The site name becomes your permanent URL (<code>yoursite.atlassian.net</code>), so choose something professional.
@@ -45,10 +45,10 @@ The project was created using the <b>IT Service Management</b> template rather t
 <br />
 
 <p>
-<img src="PASTE_SCREENSHOT_02_URL" height="80%" width="80%" alt="Empty queue immediately after project creation"/>
+<img src="https://i.imgur.com/LS8imRd.png" height="80%" width="80%" alt="Empty queue immediately after project creation"/>
 </p>
 <p>
-<i>Screenshot 2 - the empty queue immediately after creation, before any configuration.</i>
+
 </p>
 <p>
 This is the baseline. Everything that follows is configuration applied on top of the default template.
@@ -58,7 +58,7 @@ This is the baseline. Everything that follows is configuration applied on top of
 <h3>Part 2 - Agent view and customer portal</h3>
 
 <p>
-<img src="PASTE_SCREENSHOT_03_URL" height="80%" width="80%" alt="Agent view and customer portal side by side"/>
+<img src="https://i.imgur.com/IUpI9y3.png" height="80%" width="80%" alt="Agent view and customer portal side by side"/>
 </p>
 <p>
 <i>Screenshot 3 - agent view and customer portal side by side.</i>
