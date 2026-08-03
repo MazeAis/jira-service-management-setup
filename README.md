@@ -182,7 +182,7 @@ Once linked, articles surface in the customer portal as the user types - resolvi
 
 <h3>Part 7 - Working tickets end to end</h3>
 
-Tickets were submitted through the customer portal from a separate browser session, then worked from the agent view. The distinction between internal and public comments is the one worth stressing: the internal thread is where the technical detail lives, and the public thread is where the plain-language explanation goes.
+Tickets were submitted through the customer portal from a separate browser session, then worked from the agent view.
 </p>
 <br />
 
