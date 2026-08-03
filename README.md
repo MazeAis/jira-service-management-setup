@@ -1,5 +1,5 @@
 <p align="center">
-<img src="PASTE_YOUR_BANNER_IMAGE_URL_HERE" alt="Jira Service Management"/>
+<img src="https://i.imgur.com/U5o4lRr.png" alt="Jira Service Management"/>
 </p>
 
 <h1>Jira Service Management - Setup and Configuration</h1>
